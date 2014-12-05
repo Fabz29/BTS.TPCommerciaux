@@ -1,0 +1,6 @@
+C:\Users\toni__000\Documents\BTS SIO\Semestre 3\SLAM 4\Ateliers\Atelier Test Unitaire\TPCommerciaux\TPCommerciaux\bin\Debug\TPCommerciaux.exe.config
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TPCommerciaux\bin\Debug\TPCommerciaux.exe
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TPCommerciaux\bin\Debug\TPCommerciaux.pdb
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TPCommerciaux\obj\Debug\TPCommerciaux.exe
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TPCommerciaux\obj\Debug\TPCommerciaux.pdb
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TPCommerciaux\obj\Debug\TPCommerciaux.csprojResolveAssemblyReference.cache

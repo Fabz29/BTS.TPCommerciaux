@@ -1,0 +1,7 @@
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TestUnitaire\bin\Debug\TestUnitaire.dll
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TestUnitaire\bin\Debug\TestUnitaire.pdb
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TestUnitaire\bin\Debug\TPCommerciaux.exe
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TestUnitaire\bin\Debug\TPCommerciaux.pdb
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TestUnitaire\obj\Debug\TestUnitaire.csprojResolveAssemblyReference.cache
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TestUnitaire\obj\Debug\TestUnitaire.dll
+C:\Users\toni__000\ownCloud\Semestre 3\SLAM 4\Ateliers\Atelier TP Commercial\TPCommerciaux\TestUnitaire\obj\Debug\TestUnitaire.pdb
